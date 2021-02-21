@@ -1,5 +1,3 @@
-export default function SellPage () {
-  return (
-    <div>Sell</div>
-  );
+export default function SellPage() {
+  return <div>Sell</div>;
 }
